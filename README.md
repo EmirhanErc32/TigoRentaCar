@@ -29,5 +29,5 @@ Admin giriş ekranından sisteme giren yönetici:
 🗑️ Araç silebilir
 📝 Araç bilgilerini düzenleyebilir
 💰 Fiyatları güncelleyebilir
-📦 Mevcut araç listesini görebilir
+📦 Mevcut araç listesini görebilir 
 🔍 Kiralama kayıtlarını görüntüleyebilir
